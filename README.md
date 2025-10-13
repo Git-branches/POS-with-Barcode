@@ -19,5 +19,5 @@ This is a **Point-of-Sale (POS) system** with integrated inventory management an
 5. 💵 **Point of Sale (POS) system integrated with inventory**  
    - Cashiers can instantly check item availability at checkout.
   
-👩‍💻 Developer
+# 👩‍💻 Developer
 Rhon Jon G. Romero 📫 ejromero294@gmail.com 💼 (https://github.com/Git-branches)
